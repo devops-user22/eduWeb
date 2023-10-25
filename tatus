@@ -1,0 +1,95 @@
+[33mcommit e9a36762dc47706476d4d3e4a0e0d0f95629e26a[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: devops-user22 <102788347+devops-user22@users.noreply.github.com>
+Date:   Tue Aug 8 20:32:35 2023 +0300
+
+    Add files via upload
+
+[33mcommit 67e63184e7f6c47b91dd187090bb8344aa598f57[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Fri Jul 21 14:51:24 2023 +0300
+
+    Update index.html
+
+[33mcommit 2efadc55c104d77476404f8aceaa27c1d4f1dc43[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Fri Jul 21 11:43:20 2023 +0300
+
+    Update dockerfile
+
+[33mcommit e08fbdd3ef53f4e2f75d2db5f1b25ecb7e9a8f94[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Fri Jul 21 11:42:36 2023 +0300
+
+    Update dockerfile
+
+[33mcommit 98f6a0a8e1614cf1060a5f309888dcbf39bf4b86[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Fri Jul 21 11:41:38 2023 +0300
+
+    Update dockerfile
+
+[33mcommit 923f34dd548293e28a858f96f0ce5e93410e88b3[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Fri Jul 21 11:38:19 2023 +0300
+
+    Create dockerfile
+
+[33mcommit 708e4bcce568b2ebbd0fd1d4aa7099dd3e3fb83d[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Thu Jul 13 21:53:50 2023 +0300
+
+    Update index.html
+
+[33mcommit 73f4023327b1697ac5e400a88d6eb02749625b57[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Thu Jul 13 16:35:49 2023 +0300
+
+    Create Jenkinsfile
+
+[33mcommit d0169e489aafc3d741378aff4b637416946d3278[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Thu Jul 13 16:35:32 2023 +0300
+
+    Delete jenkinsfile
+
+[33mcommit 2c2358096afa7bb6c7d8ad655702df99eb7296ff[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Thu Jul 13 16:33:31 2023 +0300
+
+    Create jenkinsfile
+
+[33mcommit 82068268461b596a6b9ce076d2c3a84133994d24[m
+Author: waleedKotyb <111260696+waleedKotyb@users.noreply.github.com>
+Date:   Wed Jul 12 22:52:01 2023 +0300
+
+    Update index.html
+
+[33mcommit f8d73402b1f1e416ba7fe819f2c0e83f1f4a42ac[m
+Author: Waleed-Kotyb <waleed.kotyb@dscoola.com>
+Date:   Fri Jul 7 15:36:17 2023 +0300
+
+    add
+
+[33mcommit fd34bcfd1f190197f10bb59cba90c5c112535204[m
+Author: Waleed-Kotyb <waleed.kotyb@dscoola.com>
+Date:   Fri Jul 7 14:20:14 2023 +0300
+
+    modify index file
+
+[33mcommit 5b40000cbb644e6c5b38398ffaa80c4619ff046b[m
+Author: Waleed-Kotyb <waleed.kotyb@dscoola.com>
+Date:   Fri Jul 7 13:55:25 2023 +0300
+
+    change msg
+
+[33mcommit 792b27024bafe0d9af0866f696d7b41c6f855afc[m
+Author: Waleed-Kotyb <waleed.kotyb@dscoola.com>
+Date:   Fri Jul 7 10:06:59 2023 +0300
+
+    init website
+
+[33mcommit 7b1a243a08ed35b9444c776ffd4bbd97a995327c[m
+Author: Waleed-Kotyb <waleed.kotyb@dscoola.com>
+Date:   Fri Jul 7 10:04:34 2023 +0300
+
+    first commit
